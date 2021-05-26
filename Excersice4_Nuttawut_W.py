@@ -9,4 +9,4 @@ print("Genaral Business                 :",business_score,"score ")
 print("Introduction to Computer Systems :",com_system_score,"score")
 print("Computer Programming             :",com_pro_score,"score")
 
-print("TAOSWAGBOY")
+
